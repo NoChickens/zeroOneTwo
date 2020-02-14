@@ -1,0 +1,13 @@
+{
+    "images": [
+      {
+        "format": "jpg",
+        "name": "medium",
+        "data": ""
+      }
+    ],
+    "requestId": "string",
+    "resultType": "string",
+    "timestamp" : "1",
+    "version": "V1"
+}
